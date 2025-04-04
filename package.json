@@ -1,0 +1,15 @@
+{
+	"name": "electron-interval-system",
+	"version": "0.0.1",
+	"description": "Non-throttled interval handling via Electron main process.",
+	"main": "index.js",
+	"keywords": [
+		"electron",
+		"interval",
+		"ipc",
+		"preload",
+		"non-throttled"
+	],
+	"author": "Greg Miller",
+	"license": "MIT"
+}
